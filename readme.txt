@@ -24,7 +24,8 @@ WP Sanitize checks for potential security vulnerabilities and keeps your WordPre
 
 In the Settings Tab  you'll find the `WP Sanitize` widget. 
 
-= <a href="http://www.vibethemes.com/showcase/">More Free Plugins</a> =
+<br />
+`<a href="http://www.vibethemes.com/showcase/">More Free Plugins</a>`
 
 
 == Installation ==
