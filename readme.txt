@@ -1,7 +1,7 @@
 === WP Sanitize : Auto WordPress Optimizer Plugin ===
 Contributors: Mr. Vibe
 Donate link: http://www.vibethemes.com
-Tags: WordPress optimizer, WordPress security, automatic
+Tags: WordPress optimizer, WordPress security, auto, optimize
 Requires at least: 2.7
 Tested up to: 3.2.1
 Stable tag: 1.0
@@ -24,7 +24,7 @@ WP Sanitize checks for potential security vulnerabilities and keeps your WordPre
 
 In the Settings Tab  you'll find the `WP Sanitize` widget. 
 <br />
-<a href="http://www.vibethemes.com/showcase/">`More Free Plugins`</a>
+<a href="http://www.vibethemes.com/showcase/">More Free Plugins</a>
 == Installation ==
 Method 1
 <ul>
