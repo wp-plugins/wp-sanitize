@@ -20,7 +20,7 @@ WP Sanitize checks for potential security vulnerabilities and keeps your WordPre
 <li>Keeps WordPRess database Optimized : Removes Overheads</li>
 </ul>  
 
-= Widget =
+= Settings =
 
 In the Settings Tab  you'll find the `WP Sanitize` widget. 
 
